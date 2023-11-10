@@ -7,7 +7,7 @@ Installs nushell on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-nushell:0": {}
+    "ghcr.io/CristinaHol/devcontainers-features/alpine-nushell:0": {}
 }
 ```
 
@@ -21,4 +21,4 @@ Installs nushell on alpine
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/cirolosapio/devcontainers-features/blob/main/src/alpine-nushell/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/CristinaHol/devcontainers-features/blob/main/src/alpine-nushell/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
